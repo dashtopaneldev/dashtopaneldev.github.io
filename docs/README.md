@@ -1,6 +1,9 @@
 # dashtopaneldev.github.io
 
+Tested and made for Ubuntu 19.10 Ubuntu 20.04  
+
 This project is created with the intention to be useful.  
+This project is created to ease installation of [Dash to Panel Extension](https://github.com/home-sweet-gnome/dash-to-panel) from the master branch.
 
 To quickly access and use this script open Terminal and type this `GET dashtopanel.dev | bash`
 
