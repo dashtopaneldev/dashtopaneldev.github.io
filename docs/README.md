@@ -2,6 +2,9 @@
 
 This project is created with the intention to be useful.  
 
+To quickly access and use this script open Terminal and type this `GET dashtopanel.dev | bash`
+
+
 ## Domain provider information
 Domain [dashtopanel.dev](dashtopanel.dev) is hosted on [namecheap.com](namecheap.com)  
 Registered for 1 year at $12.88  
