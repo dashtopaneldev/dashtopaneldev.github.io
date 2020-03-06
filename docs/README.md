@@ -10,6 +10,7 @@ Domain [dashtopanel.dev](dashtopanel.dev) is hosted on [namecheap.com](namecheap
 Registered for 1 year at $12.88  
 
 If asked I'm happy with transfering the domain to the owners of dash to panel project for no cost or obligations.
+Also the domain can be canceled and this repository deleted if contacted and requested by the authors of dash to panel extension.
 
 ## Domain provider settings
 ```
