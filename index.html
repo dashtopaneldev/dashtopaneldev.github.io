@@ -1,0 +1,11 @@
+#!/bin/bash
+GET "github.com/home-sweet-gnome/dash-to-panel/archive/master.zip" > "dash-to-panel-master.zip";
+unzip "dash-to-panel-master.zip";
+cd "dash-to-panel-master/";
+
+sudo apt-get install gettext -y;
+sudo apt install make -y;
+
+make install
+gnome-extensions enable "dash-to-panel@jderose9.github.com"
+busctl --user call org.gnome.Shell /org/gnome/Shell org.gnome.Shell Eval s 'Meta.restart("Restarting…")';
